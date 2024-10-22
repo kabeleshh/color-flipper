@@ -28,12 +28,16 @@ h2 {
     font-size: 1.2rem;
     color: #333;
     margin: 0;
-    line-height: 15px;
+    line-height: 30px;
+    margin-top: 700px;
 }
 
 #text {
     font-size: 1rem;
     color: #555;
+    margin-top: 700px;
+    margin-right: 35px;
+    font-weight: bolder;
 }
 
 
